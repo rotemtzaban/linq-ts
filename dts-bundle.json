@@ -1,0 +1,7 @@
+{
+    "name":"linq-ts",
+    "main":"./dist/types/index.d.ts",
+    "baseDir":".",
+    "out":"./dist/typesBundle/index.d.ts",
+    "outputAsModuleFolder":true
+}
